@@ -1,0 +1,10 @@
+{
+    "short_name": "Mythical",
+    "name": "Mythical Mobile",
+    "description": "Show no fear.",
+    "start_url": "/?source=pwa",
+    "background_color": "#50296C",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000",
+}
